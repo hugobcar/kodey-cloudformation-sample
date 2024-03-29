@@ -1,0 +1,1 @@
+This README file describes the CloudFormation template designed to provision EC2 instances with a load balancer, Route 53 for DNS management, RDS for database operations, and CloudWatch for monitoring and logging.
